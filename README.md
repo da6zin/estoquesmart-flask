@@ -57,6 +57,4 @@ static/           CSS e logo
 tests/            testes automatizados
 ```
 
-## Prints
 
-_(adicione aqui screenshots do dashboard e da lista de produtos, ex.: `docs/dashboard.png`)_
